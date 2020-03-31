@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table3" max_length="40" name="x_snc_scopedapp_tr_table3" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Col1" max_length="40" name="u_col1" type="boolean"/>
+    </element>
+</database>

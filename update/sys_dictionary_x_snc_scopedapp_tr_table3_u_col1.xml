@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_scopedapp_tr_table1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_col1" table="x_snc_scopedapp_tr_table3">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>Col1</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,15 +27,15 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_col1</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="">boolean</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_snc_scopedapp_tr_table1</name>
+        <name>x_snc_scopedapp_tr_table3</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>radha.malladi@snc</sys_created_by>
-        <sys_created_on>2020-03-30 19:14:10</sys_created_on>
-        <sys_id>3c979efedb374010ead16b984b961918</sys_id>
+        <sys_created_on>2020-03-30 20:57:05</sys_created_on>
+        <sys_id>f0e652fedb374010ead16b984b96195e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_scopedapp_tr_table1</sys_name>
+        <sys_name>Col1</sys_name>
         <sys_package display_value="ScopedApp Training" source="x_snc_scopedapp_tr">9998a972dbf34010ead16b984b9619be</sys_package>
         <sys_policy/>
         <sys_scope display_value="ScopedApp Training">9998a972dbf34010ead16b984b9619be</sys_scope>
-        <sys_update_name>sys_dictionary_x_snc_scopedapp_tr_table1_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-03-30 20:59:27</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_snc_scopedapp_tr_table3_u_col1</sys_update_name>
+        <sys_updated_by>radha.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-03-30 20:57:05</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

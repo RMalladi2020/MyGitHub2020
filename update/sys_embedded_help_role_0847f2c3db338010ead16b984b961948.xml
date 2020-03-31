@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_scopedapptraining_publishtoapprepo" name="sn_dd_scopedapptraining_publishtoapprepo">c847f2c3db338010ead16b984b961946</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>radha.malladi@snc</sys_created_by>
+        <sys_created_on>2020-03-31 17:56:19</sys_created_on>
+        <sys_id>0847f2c3db338010ead16b984b961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c847f2c3db338010ead16b984b961946</sys_name>
+        <sys_package display_value="ScopedApp Training" source="x_snc_scopedapp_tr">9998a972dbf34010ead16b984b9619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ScopedApp Training">9998a972dbf34010ead16b984b9619be</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0847f2c3db338010ead16b984b961948</sys_update_name>
+        <sys_updated_by>radha.malladi@snc</sys_updated_by>
+        <sys_updated_on>2020-03-31 17:56:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
